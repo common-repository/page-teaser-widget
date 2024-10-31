@@ -1,0 +1,58 @@
+# Copyright (C) 2010 Page Teaser Widget
+# This file is distributed under the same license as the Page Teaser Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Page Teaser Widget 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/page-teaser-widget\n"
+"POT-Creation-Date: 2011-01-10 16:58:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: page-teaser-widget.php:14
+msgid "Promote a single page in you sidebar."
+msgstr ""
+
+#: page-teaser-widget.php:15
+msgid "Page Teaser"
+msgstr ""
+
+#: page-teaser-widget.php:47
+msgid "Title:"
+msgstr ""
+
+#: page-teaser-widget.php:52
+msgid "Page:"
+msgstr ""
+
+#: page-teaser-widget.php:69
+msgid "Link text:"
+msgstr ""
+
+#: page-teaser-widget.php:76
+msgid "Use page thumbnail if available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Page Teaser Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.jonaspiela.com/2010/12/24/wordpress-plugin-page-teaser-widget/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Promote single pages in you sidebar."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jonas Piela"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jonaspiela.com/"
+msgstr ""

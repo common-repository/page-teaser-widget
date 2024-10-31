@@ -1,0 +1,59 @@
+# Copyright (C) 2010 Page Teaser Widget
+# This file is distributed under the same license as the Page Teaser Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Page Teaser Widget 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/page-teaser-widget\n"
+"POT-Creation-Date: 2011-01-10 16:58:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-01-10 18:25+0100\n"
+"Last-Translator: Jonas Piela <jonas.piela@gmail.com>\n"
+"Language-Team: \n"
+"X-Poedit-Language: German\n"
+
+#: page-teaser-widget.php:14
+msgid "Promote a single page in you sidebar."
+msgstr "Zeige eine Seite in deiner Sidebar an."
+
+#: page-teaser-widget.php:15
+msgid "Page Teaser"
+msgstr "Page Teaser"
+
+#: page-teaser-widget.php:47
+msgid "Title:"
+msgstr "Titel:"
+
+#: page-teaser-widget.php:52
+msgid "Page:"
+msgstr "Seite:"
+
+#: page-teaser-widget.php:69
+msgid "Link text:"
+msgstr "Link Text:"
+
+#: page-teaser-widget.php:76
+msgid "Use page thumbnail if available."
+msgstr "Artikelbild verwenden, wenn vorhanden."
+
+#. Plugin Name of the plugin/theme
+msgid "Page Teaser Widget"
+msgstr "Page Teaser Widget"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jonaspiela.com/2010/12/24/wordpress-plugin-page-teaser-widget/"
+msgstr "http://www.jonaspiela.com/2010/12/24/wordpress-plugin-page-teaser-widget/"
+
+#. Description of the plugin/theme
+msgid "Promote single pages in you sidebar."
+msgstr "Zeige eine Seite in deiner Sidebar an."
+
+#. Author of the plugin/theme
+msgid "Jonas Piela"
+msgstr "Jonas Piela"
+
+#. Author URI of the plugin/theme
+msgid "http://www.jonaspiela.com/"
+msgstr "http://www.jonaspiela.com/"
+
